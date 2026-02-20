@@ -1,10 +1,10 @@
-# TripGo - Travel Agency Booking System
+# Oman Tourism - Travel Agency Booking System
 
 Welcome to the TripGo repository! This project is a Travel Agency Booking System designed to help customers easily explore and book exciting travel packages. It provides a user-friendly interface for customers to view available packages, book their trips, and receive basic invoices for their bookings.
 
 ## Project Overview
 
-TripGo offers an easy-to-use platform where customers can:
+Oman Tourism offers an easy-to-use platform where customers can:
 - Browse through available tour packages.
 - Book a tour package by providing necessary details.
 - Receive a basic invoice after booking, summarizing customer information and booking details.
@@ -119,5 +119,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub Repository:** [https://github.com/Aditya1or0/TripGo](https://github.com/Aditya1or0/TripGo)
-- **Email:** [adityapandit264@gmail.com](mailto:adityapandit264@gmail.com)
+- **Email:** [aber91283@gmail.com](mailto:adityapandit264@gmail.com)
 
